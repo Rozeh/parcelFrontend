@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "parcel src/index.html -p 1004 --open",
+    "start": "parcel src/index.html -p 3000 --open",
     "build": "tsc"
   },
   "dependencies": {
